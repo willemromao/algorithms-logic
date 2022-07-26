@@ -1,4 +1,4 @@
-Algoritmo "Problema do Círculo"
+Algoritmo "Problema CÃ­rculo"
 
 Var
 
@@ -6,13 +6,13 @@ Var
 
 Inicio
 
-      escreva("Digite o valor do raio do cícrulo: ")
+      escreva("Digite o valor do raio do cÃ­crulo: ")
       leia(r)
 
       escreval()
 
       area <- Pi * Exp(r , 2)
 
-      escreval("ÁREA = ", area:5:3)
+      escreval("ÃREA = ", area:5:3)
 
 Fimalgoritmo
