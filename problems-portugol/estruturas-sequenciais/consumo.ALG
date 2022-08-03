@@ -6,16 +6,16 @@ Var
 
 Inicio
 
-      escreva("Distância percorrida: ")
+      escreva("DistÃ¢ncia percorrida: ")
       leia(distancia)
-      escreva("Combustível gasto: ")
+      escreva("CombustÃ­vel gasto: ")
       leia(combustivel)
       
       consumo <- distancia / combustivel
       
-      escreval()
+      escreval
       
-      escreval("Consumo médio = ", consumo:5:3)
+      escreval("Consumo mÃ©dio = ", consumo:5:3)
 
 
 Fimalgoritmo
