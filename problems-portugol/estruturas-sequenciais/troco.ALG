@@ -7,14 +7,14 @@ Var
 
 Inicio
 
-      escreva("PreÁo unit·rio do produto: ")
+      escreva("Pre√ßo unit√°rio do produto: ")
       leia(preco)
       escreva("Quantidade comprada: ")
       leia(quantidade)
       escreva("Dinheiro recebido: ")
       leia(dinheiro)
       
-      escreval()
+      escreval
       
       troco <- dinheiro - preco * quantidade
       
