@@ -10,7 +10,7 @@ Inicio
       leia(X)
       escreva("Digite o valor de Y: ")
       leia(Y)
-      escreval()
+      escreval
 
       soma <- X + Y
 
