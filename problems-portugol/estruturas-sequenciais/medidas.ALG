@@ -17,11 +17,11 @@ Inicio
       areaTriangulo <- A * B / 2
       areaTrapezio <- (A + B) * C / 2
       
-      escreval()
+      escreval
       
-      escreval("ÁREA DO QUADRADO = ", areaQuadrado:6:4)
-      escreval("ÁREA DO TRIÂNGULO = ", areaTriangulo:6:4)
-      escreval("ÁREA DO TRAPÉZIO = ", areaTrapezio:6:4)
+      escreval("ÃREA DO QUADRADO = ", areaQuadrado:6:4)
+      escreval("ÃREA DO TRIÃ‚NGULO = ", areaTriangulo:6:4)
+      escreval("ÃREA DO TRAPÃ‰ZIO = ", areaTrapezio:6:4)
       
       
 
