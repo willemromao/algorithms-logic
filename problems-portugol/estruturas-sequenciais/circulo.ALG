@@ -9,7 +9,7 @@ Inicio
       escreva("Digite o valor do raio do cícrulo: ")
       leia(r)
 
-      escreval()
+      escreval
 
       area <- Pi * Exp(r , 2)
 
