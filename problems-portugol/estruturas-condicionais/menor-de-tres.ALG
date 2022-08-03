@@ -1,4 +1,4 @@
-Algoritmo "Problema Menor de Três"
+Algoritmo "Problema Menor de TrÃªs"
 
 Var
 
@@ -23,7 +23,7 @@ Inicio
       fimse
    fimse
    
-   escreval()
+   escreval
    escrevaL("MENOR = " , menor)
 
 Fimalgoritmo
