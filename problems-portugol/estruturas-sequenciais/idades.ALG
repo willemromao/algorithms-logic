@@ -13,7 +13,7 @@ Inicio
       escreva("Idade: ")
       leia(idade1)
 
-      escreval()
+      escreval
 
       escreval("Dados da segunda pessoa: ")
       escreva("Nome: ")
@@ -21,11 +21,11 @@ Inicio
       escreva("Idade: ")
       leia(idade2)
 
-      escreval()
+      escreval
 
       idadeMedia <- (idade1 + idade2) / 2
 
-      escreval("A idade média de ", nome1, " e ", nome2, " é de ", idadeMedia:3:1, " anos. ")
+      escreval("A idade mÃ©dia de ", nome1, " e ", nome2, " Ã© de ", idadeMedia:3:1, " anos. ")
    
 
 Fimalgoritmo
