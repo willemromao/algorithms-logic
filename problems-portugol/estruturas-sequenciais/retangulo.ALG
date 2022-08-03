@@ -1,4 +1,4 @@
-Algoritmo "Problema Ret‚ngulo"
+Algoritmo "Problema Ret√¢ngulo"
 
 Var
 
@@ -6,7 +6,7 @@ Var
 
 Inicio
 
-      escreva("Base do ret‚ngulo: ")
+      escreva("Base do ret√¢ngulo: ")
       leia(base)
       escreva("Altura do retangulo: ")
       leia(altura)
@@ -15,10 +15,10 @@ Inicio
       perimetro <- 2 * (base + altura)
       diagonal <- RaizQ(Exp(base, 2) + Exp(altura, 2))
       
-      escreval()
+      escreval
       
       escreval("AREA = ", area:8:4)
-      escreval("PERÕMETRO = ", perimetro:8:4)
+      escreval("PER√çMETRO = ", perimetro:8:4)
       escreval("DIAGONAL = ", diagonal:8:4)
 
 
