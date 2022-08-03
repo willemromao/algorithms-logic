@@ -14,7 +14,7 @@ Inicio
    escreva("Horas trabalhadas: ")
    leia(horas)
    
-   escreval()
+   escreval
    
    pagamento <- valor * horas
    
