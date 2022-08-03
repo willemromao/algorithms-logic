@@ -13,12 +13,12 @@ Inicio
       escreva("Digite o valor do metro quadrado: ")
       leia(metroQuadrado)
    
-      escreval()
+      escreval
    
       area <- largura * comprimento
       preco <- area * metroQuadrado
 
-      escreval("Área do terreno = ", area:6:2)
-      escreval("Preço do terreno = ", preco:8:2, " R$")
+      escreval("Ãrea do terreno = ", area:6:2)
+      escreval("PreÃ§o do terreno = ", preco:8:2, " R$")
 
 Fimalgoritmo
