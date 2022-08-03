@@ -11,7 +11,7 @@ Inicio
       escreva("Digite a primeira nota: ")
       leia(nota2)
       
-      escreval()
+      escreval
       
       notaFinal <- nota1 + nota2
       
